@@ -1,0 +1,43 @@
+.x{
+    background-color: #0c5460;
+    height: 30vh;
+}
+.y{
+    background-color: #1c7430;
+    height: 30vh;
+}
+.a{
+    background-color: #1b1e21;
+    height: 30vh;
+}
+.b{
+    background-color: #8fd19e;
+    height: 30vh;
+}
+.c{
+    background-color: #0f6674;
+    height: 30vh;
+}
+.r{
+    background-color: rgba(255,121,245,0.98);
+    height: 30vh;
+}
+.s{
+    background-color: #8fd19e;
+    height: 30vh;
+}
+.t{
+    background-color: #6f42c1;
+    height: 30vh;
+}
+.u{
+    background-color: #491217;
+    height: 30vh;
+}
+.carousel-inner img{
+    width: 90%;
+    height: 98vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10px;
+}
